@@ -6,6 +6,7 @@
 """
 
 from typing import list
+from prettytable import PrettyTable
 
 
 class Tower():

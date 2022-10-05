@@ -12,7 +12,7 @@ import week4.OperatingSystem;
 import week4.Process;
 import week4.Process.Priority;
 
-public class assignment4_Queue_ProcessManagement{
+public class Queue_ProcessManagement{
 
 
 }
