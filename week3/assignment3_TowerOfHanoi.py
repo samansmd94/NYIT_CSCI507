@@ -5,7 +5,7 @@
 @StudentID: 1313045, 1314389
 """
 
-from typing import list
+from typing import List
 from prettytable import PrettyTable
 
 
